@@ -1,4 +1,6 @@
-﻿using System;
+﻿using WebApplication2.Models;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +10,18 @@ namespace WebApplication2.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index(int? id) //nullable type 'int?'
+        // public string Index(int? id) //nullable type 'int?'
+        // {
+        //     return (view);
+        // }
+
+
+
+        Person person = new Person() { Name = "Zahin", Salary = 1200 };
+        public ActionResult Index()
         {
-            return "hellow"+id;
+  
+            return View(person);
         }
 
 
