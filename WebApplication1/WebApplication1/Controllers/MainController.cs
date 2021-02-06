@@ -19,5 +19,10 @@ namespace WebApplication1.Controllers
             //return Content("From Aother Mehotd "+id);
             return RedirectToAction("Index","Person");
         }
+
+        public ViewResult Index()
+        {
+            return View();
+        }
     }
 }
