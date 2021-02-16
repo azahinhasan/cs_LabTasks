@@ -1,0 +1,98 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CopyComplete
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.pdb
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.pdb
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.AppContext.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csprojAssemblyReference.cache
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CopyComplete
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.pdb

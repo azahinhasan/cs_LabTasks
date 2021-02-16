@@ -1,4 +1,7 @@
-﻿
+﻿@*model WebApplication1.Controllers.Person*@
+
+@model IEnumerable<WebApplication1.Controllers.Person>
+
 
 <!DOCTYPE html>
 
@@ -8,8 +11,51 @@
     <title>Index</title>
 </head>
 <body>
-    <div> 
+    <div>
         <h2>Hello Zahin!</h2>
+        <h3>Session Output: @Session["name"] : @Session["age"] </h3>
+        <h3>ViewData Output: @ViewData["nameV"] </h3>
+        <h3>ViewBag Output: @ViewBag.nameVB </h3>
+        <h3>ViewBag Output: @TempData["nameTD"] </h3>
+
+        <form>
+            <table border="1" >
+               @* <thead>
+                </thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Salary</th>
+                </tr>
+                @*acessing perosn class by LIST
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Salary</td>
+                    </tr>
+                }*@
+
+
+
+                <tr>
+                    <td>
+                        <label>
+                            Nmae:
+                        </label>
+                    </td>
+                    <td>
+                        <input type="text" name="name"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="="Submit" /></td>
+                </tr>
+            </table>
+
+        </form>
+        @*<h3>From Person Class : @Model.Name</h3>*@
+
     </div>
 </body>
 </html>

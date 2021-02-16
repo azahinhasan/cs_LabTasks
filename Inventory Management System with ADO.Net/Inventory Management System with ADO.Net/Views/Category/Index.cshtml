@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Inventory_Management_System_with_ADO.Net.Models.Category>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <a href="/category/create">Create New Category</a>
+    </div>
+    <br /><br />
+    <div> 
+        <table border="1">
+            <tr>
+                <th>Category Id</th>
+                <th>Category Name</th>
+                <th>Operation</th>
+            </tr>
+            @foreach (var item in Model) 
+            { 
+                <tr>
+                    <td>@item.CategoryId</td>
+                    <td>@item.CategoryName</td>
+                    <td><a href="/category/edit/@item.CategoryId">Edit</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/category/delete/@item.CategoryId">Delete</a></td>
+                </tr>
+            
+            }
+
+        </table>
+    </div>
+</body>
+</html>
