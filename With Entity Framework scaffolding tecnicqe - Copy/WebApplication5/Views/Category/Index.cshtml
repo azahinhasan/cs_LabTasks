@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WebApplication5.Models.Catagory>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <div>
+            <h3>
+                <a href="category/create">Create New Category</a>
+            </h3>
+        </div>
+        <table border="1">
+
+            <tr>
+                <td>
+                    Catadory ID
+                </td>
+                <td>
+                    Catagory Name
+                </td>
+                <td>
+                    Operations
+                </td>
+            </tr>
+                @foreach (var item in Model)
+                {
+                   <tr>
+                       <td>@item.CatagoriesId</td>
+                       <td>@item.CatagoriesName</td>
+                       <td>
+                       <a href="/Category/Edit/@item.CatagoriesId">Edit</a>
+                       <a href="/Category/delete/@item.CatagoriesId">Delete</a>
+                       </td>
+                   </tr>
+                }
+           
+        </table>
+    </div>
+</body>
+</html>

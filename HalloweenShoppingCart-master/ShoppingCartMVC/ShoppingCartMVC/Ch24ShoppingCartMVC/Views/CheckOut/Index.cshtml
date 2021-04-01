@@ -1,0 +1,41 @@
+﻿@using System.Configuration
+@model Ch24ShoppingCartMVC.Models.CartViewModel
+@using Microsoft.Ajax.Utilities
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int sum = 0;
+}
+
+@section css {
+    <link href="~/Content/Cart.css" rel="stylesheet" />
+}
+<h2>Your CheckOut Cart</h2>
+@if (Model.Cart.Count == 0)
+{
+    <p>Nothing in your cart yet.</p>
+}
+else
+{
+    <select multiple="multiple">
+        @foreach (var item in Model.Cart)
+        {
+            <option>@item.Name @item.Quantity at $@item.UnitPrice @(item.UnitPrice*item.Quantity)</option>
+            @(sum = (int) (sum + (item.UnitPrice*item.Quantity)));
+        }
+    </select>
+    <h4>Total Sum = </h4>
+    <p>
+        $@sum
+    </p>
+    <h4>Shipping Address</h4>
+    @Html.TextBox("ShippingAddress","Shipping Address Line 1")
+    <br/>
+    <br/>
+    <h4>Select Payment</h4>
+    @Html.DropDownList("PaymentMethod", new SelectList(new[] { "Visa", "MasterCard" }))
+    <br/>
+    <br/>
+    <button>Pay Now</button>
+
+}

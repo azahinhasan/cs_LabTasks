@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebApplication5.Models.Product>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TopTwoProducts</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table" border="1px">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductsName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Catagory.CatagoriesName)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductsName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Catagory.CatagoriesName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ProductsId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ProductsId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ProductsId })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

@@ -1,11 +1,6 @@
-﻿using WebApplication5.Controllers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using WebApplication5.Models;
-using System.Data.Entity;
 
 namespace WebApplication5.Controllers
 {
@@ -30,7 +25,7 @@ namespace WebApplication5.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(Catagory category )
+        public ActionResult Create(Catagory category)
         {
             context.Catagories.Add(category);
             context.SaveChanges();
@@ -38,34 +33,34 @@ namespace WebApplication5.Controllers
         }
 
         [HttpGet]
-        public ActionResult Edit( int id)
+        public ActionResult Edit(int id)
         {
             var categoryToEdit = context.Catagories.Find(id); //find only for Primery key
-            //var categoryToEdit = context.Catagories.Where(x => x.CateforyName=="cloth").FirstOrdDefult(); //for others
-            
+                                                              //var categoryToEdit = context.Catagories.Where(x => x.CateforyName=="cloth").FirstOrdDefult(); //for others
+
             return View(categoryToEdit);
         }
 
         [HttpPost]
-        public ActionResult Edit(int id,Catagory category)
+        public ActionResult Edit(int id, Catagory category)
         {
             category.CatagoriesId = id;
             var categoryToEdit = context.Catagories.Find(id);
-            
+
             categoryToEdit.CatagoriesName = category.CatagoriesName;
             //context.Entry(category).State = EntityState.Modified;
             context.SaveChanges();
             return RedirectToAction("Index");
         }
 
-        [HttpGet]   
+        [HttpGet]
         public ActionResult Delete(int id)
         {
             var categoryToEdit = context.Catagories.Find(id);
             return View(categoryToEdit);
         }
 
-        [HttpPost,ActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         public ActionResult ConfirmDelete(int id)
         {
 

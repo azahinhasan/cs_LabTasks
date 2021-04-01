@@ -1,0 +1,46 @@
+﻿
+@model Ch24ShoppingCartMVC.Models.CartViewModel
+@{int totalPrice = 0;
+}
+
+
+<h2>Your CheckOut Cart</h2>
+@if (Model.Cart.Count == 0)
+{
+    <p>Nothing added in Cart.</p>
+}
+else
+{
+   <table border="1">
+      <thead>
+      <tr>
+              <td>Name</td>
+              <td>Quantity</td>
+              <td>UnitePrice</td>
+      </tr>
+      </thead>
+            @foreach (var item in Model.Cart)
+                {
+                    <tr >
+                        <td>@item.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>$@item.UnitPrice</td>
+                    </tr>
+       
+                }
+        </table>
+        
+        <span style="display:none">
+            @foreach (var item in Model.Cart)
+            {
+                @(totalPrice = (int) (totalPrice + (item.UnitPrice*item.Quantity)));
+            }
+        </span>
+
+    <p style="color:red">Total Bill = $@totalPrice </p>
+    <p>Shipping Address:  @Html.TextBox("ShippingAddress", "Enter Address")</p>
+    <p>Select Payment : @Html.DropDownList("PaymentMethod", new SelectList(new[] { "Visa", "MasterCard", "PayPal" }))</p>
+
+    <a href="@Url.Action("Search","Customer")"><button>Pay Now</button></a>
+
+}
