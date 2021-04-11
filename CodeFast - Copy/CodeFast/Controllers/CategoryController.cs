@@ -17,5 +17,7 @@ namespace CodeFast.Controllers
             var list = dbContext.Categories.ToList();
             return View(list);
         }
+
+     
     }
 }
