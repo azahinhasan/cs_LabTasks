@@ -38,7 +38,7 @@ namespace CodeFast.Migrations
             List<Category> categories = new List<Category>()
             {
                 new Category(){CategoryName="Cloth"},
-                new Category() { CategoryName = "Electonics" }
+                new Category() {CategoryName = "Electonics" }
             };
 
 

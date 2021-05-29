@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>API Test</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="jquery-3.6.0.js"></script>
+	<script type="text/javascript" src="myscript.js"></script>
+</head>
+<body>
+	<h2>Add New Category</h2>
+	<label>Category Name: </label>&nbsp;
+	<input type="text" id="categoryName">
+	<br/>
+	<br/>
+	<button id="addCategory">Add New Category</button>
+	<hr/>
+	<br/>
+
+	<h2>Update Category</h2>
+	<label>Category Name: </label>&nbsp;
+	<select id="selectCategory"></select>
+	<br/>
+	<br/>
+	<label>Category Name: </label>&nbsp;
+	<input type="text" id="updateCategoryName">
+	<br/>
+	<br/>
+	<button id="updateCategory">Update Category</button>
+	<hr/>
+	<br/>
+
+
+	<h2>Category List</h2>
+	
+	<button id="loadbtn">Load Categories</button>
+	<br>
+	<p id="msg"></p>
+	<br>
+	<table border="1" id="tblCategoryList">
+		<thead>
+			<tr>
+				<th>Category Id</th>
+				<th>Category Name</th>
+			</tr>		
+		</thead>
+		<tbody>
+			
+		</tbody>
+	</table>
+
+</body>
+</html>

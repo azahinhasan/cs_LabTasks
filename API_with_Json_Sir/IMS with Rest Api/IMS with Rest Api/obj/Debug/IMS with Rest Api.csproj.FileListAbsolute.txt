@@ -1,0 +1,102 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.dll.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csi.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csi.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Net.Http.Formatting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.WebHost.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Net.Http.Formatting.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.WebHost.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csproj.CopyComplete
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Cors.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.Cors.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.Cors.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.dll.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\IMS with Rest Api.pdb
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csc.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csi.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\csi.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.AppContext.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\vbc.rsp
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.SqlServer.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\Newtonsoft.Json.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Net.Http.Formatting.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Cors.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.Cors.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.WebHost.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\EntityFramework.SqlServer.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.Cors.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\Newtonsoft.Json.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Net.Http.Formatting.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\System.Web.Http.WebHost.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csprojAssemblyReference.cache
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csproj.CoreCompileInputs.cache
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.csproj.CopyComplete
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\API_with_Json_Sir\IMS with Rest Api\IMS with Rest Api\obj\Debug\IMS with Rest Api.pdb

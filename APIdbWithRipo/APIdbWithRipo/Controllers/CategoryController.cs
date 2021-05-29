@@ -6,10 +6,13 @@ using System.Net.Http;
 using System.Web.Http;
 using APIdbWithRipo.Models;
 using APIdbWithRipo.Auth;
+using System.Web;
+using System.Web.Http.Cors;
 
 namespace APIdbWithRipo.Controllers
 {
     [RoutePrefix("api/categories")]
+    
     public class CategoryController : ApiController
     {
         InventoryDataContext context = new InventoryDataContext();
@@ -18,9 +21,14 @@ namespace APIdbWithRipo.Controllers
         //Authertication
         //1.Basic 2.Token based/Open authentication  3.Third party(google,fb)
 
+        /*Richardson Maturity model
+         lv 1: resouce based Api
+        lv 2: lv 1+http verbs+status code
+        lv 3: lv 2+ hatedas
+         */
 
         /* [HttpGet]*/
-        /*[Route(""),BasicAuth]*/  
+        /*[Route(""),BasicAuth]*/
         /*        public IHttpActionResult AllCategories()
                 {
                     return Ok(context.Catagories.ToList());
@@ -29,7 +37,9 @@ namespace APIdbWithRipo.Controllers
 
 
         /* [Route("api/categories")]*/
-        [Route(""), BasicAuth] //Auth/basciAuth folder
+        /*[Route(""), BasicAuth]*/ //Auth/basciAuth folder
+
+        [Route("")]
         public IHttpActionResult Get()
         {
             // return StatusCode(HttpStatusCode.NoContent);
@@ -45,6 +55,15 @@ namespace APIdbWithRipo.Controllers
             {
                 return StatusCode(HttpStatusCode.NoContent);
             }
+
+            category.Links.Add(new Link() { Url = "https://localhost:44382/api/categories", Method = "POST", Relation = "Create a New Catogory" });
+          /*  category.Links.Add(new Link() { Url = HttpContext.Current.Request.Url.AbsoluteUri , Method = "POST", Relation = "Create a New Catogory" }); */  //in here URl is dynamic
+
+            /*category.Links.Add(new Link() { Url = "https://localhost:44382/api/categories/"+category.CatagoriesId, Method = "PUT", Relation = "Maodfiy Catogory data" });*/
+            category.Links.Add(new Link() { Url = HttpContext.Current.Request.Url.AbsoluteUri, Method = "PUT", Relation = "Maodfiy Catogory data" });
+
+            category.Links.Add(new Link() { Url = "https://localhost:44382/api/categories/" + category.CatagoriesId, Method = "DELETE", Relation = "DELETE Catogory data" });
+            // ^ show meta data on API output
 
             return Ok(category);
         }
@@ -72,12 +91,24 @@ namespace APIdbWithRipo.Controllers
 
         /*[Route("api/categories/{id}"), HttpDelete] *///delete
         [Route("{id}"), HttpDelete]
-        public IHttpActionResult Remove([FromUri] int id)
+       /* [EnableCors(origins: "*", headers: "*", methods: "*")]*/
+        public IHttpActionResult Remove([FromUri]int id)
         {
 
             context.Catagories.Remove(context.Catagories.Find(id));
             context.SaveChanges();
             return StatusCode(HttpStatusCode.NoContent);
+        }
+
+        [Route("{id}/products"),HttpGet]
+        public IHttpActionResult getProductByCategory(int id)
+        {
+            var productList = context.Products.Where(x => x.CatagoriesId == id).ToList();
+            if(productList == null)
+            {
+                return StatusCode(HttpStatusCode.NoContent);
+            }
+            return Ok(productList);
         }
 
     }

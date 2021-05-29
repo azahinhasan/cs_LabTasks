@@ -69,3 +69,6 @@ C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\obj
 C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\obj\Debug\APIdbWithRipo.csproj.CopyComplete
 C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\obj\Debug\APIdbWithRipo.dll
 C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\obj\Debug\APIdbWithRipo.pdb
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\bin\System.Web.Cors.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\bin\System.Web.Http.Cors.dll
+C:\Users\zahin\Desktop\Study\APS.net\cs_LabTasks\APIdbWithRipo\APIdbWithRipo\bin\System.Web.Http.Cors.xml

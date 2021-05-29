@@ -22,13 +22,23 @@ namespace APIdbWithRipo.Models
         {
             this.Products = new HashSet<Product>();
         }
-    
+
+        List<Link> links = new List<Link>();
+       // public List<Link>Links { get; set; }
+
+        public List<Link> Links
+        {
+            get { return links; }
+        }
+
+
+
         public int CatagoriesId { get; set; }
         public string CatagoriesName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         
-        [JsonIgnore,XmlIgnore] //to ignore looping and product data
+       [JsonIgnore,XmlIgnore] //to ignore looping and product data
         public virtual ICollection<Product> Products { get; set; }
     }
 }

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+    <head>Api test</head>
+    <meta charset="">
+    <script type="text/javascript" src="jquary.js"></script>
+    <script type="text/javascript" src="myjs.js"></script>
+
+	<h2>Add New Category</h2>
+	<label>Category Name: </label>&nbsp;
+	<input type="text" id="categoryName">
+	<br/>
+	<br/>
+	<button id="addCategory">Add New Category</button>
+	<hr/>
+	<br/>
+
+	<h2>Update Category</h2>
+	<label>Category Name: </label>&nbsp;
+	<select id="selectCategory"></select>
+	<br/>
+	<br/>
+	<label>Category Name: </label>&nbsp;
+	<input type="text" id="updateCategoryName">
+	<br/>
+	<br/>
+	<button id="updateCategory">Update Category</button>
+	<hr/>
+	<br/>
+
+	<h2>Delete Category</h2>
+	<label>Category ID: </label>&nbsp;
+	<select id="selectID"></select>
+	<br/>
+	<button id="deleteCategory">Delete Category</button>
+	<hr/>
+	<br/>
+
+
+	<h2>Category List</h2>
+	
+	<button id="loadbtn">Load Categories</button>
+	<br>
+	<p id="msg" style="color: red; font-weight: bold;"></p>
+	<br>
+	<table border="1" id="tblCategoryList">
+		<thead>
+			<tr>
+				<th>Category Id</th>
+				<th>Category Name</th>
+			</tr>		
+		</thead>
+		<tbody>
+			
+		</tbody>
+	</table>
+
+</body>
+</html>
